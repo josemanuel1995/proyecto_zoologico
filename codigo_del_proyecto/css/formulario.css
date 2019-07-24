@@ -1,0 +1,96 @@
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+}
+.formulario {
+    display:block;
+    margin:0 auto;
+    width:60%;
+    color: #ffffff;
+    font-family:Arial;
+	
+	
+
+}
+form {
+    margin:0 auto;
+	
+   
+}
+ 
+input, textarea {
+    border:2px solid #f6f6f6;
+    padding:10px;
+    margin-top:5px;
+    font-size:10px;
+    color:black;
+}
+ 
+
+ 
+#submit {
+    width:85px;
+    height:35px;
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+}
+
+#foranimal{
+	background:rgba(166, 242, 69,0.4);
+	
+	margin:0 auto;
+	width:80%;
+	border-radius: 10px;
+	
+}
+
+#contenedor3{
+	width:80%;
+	height:900px;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	 border-radius: 10px;
+	
+}
+#contenedor4{
+	width:80%;
+	height:1150px;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	 border-radius: 10px;
+	
+}
+
+#contenedor5{
+	width:80%;
+	height:500px;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	 border-radius: 10px;
+	
+}
+
+#contenedor6{
+	width:80%;
+	height:50px;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	 border-radius: 10px;
+	
+}
+#contenedor7{
+	width:80%;
+	height:1000px;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	 border-radius: 10px;
+	
+}
+

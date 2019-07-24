@@ -1,0 +1,90 @@
+ header{
+	 
+	 background:rgba(166, 242, 69,0.4);
+	 color:#fff;
+ }
+body{
+background-image:url(../img/fondo3.jpg);
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+	background-size:cover; 
+	
+	/*.la imagen pequeña se ajusta al fondo */
+	 /*background-size:contain;para que la imagen grande ajuste ala pantalla*/
+ }
+
+ 
+	 
+ 
+	 
+
+
+
+
+footer {
+	background:rgba(71, 72, 51,0.4);
+	height: 15%;
+  color: white;
+  padding: 15px;
+ 
+}
+
+
+
+	
+	
+
+
+a{
+	text-decoration:none;
+	color: #000000;
+}
+ 
+ #contenedor{
+	width:80%;
+	height:800px;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	border: 5px;
+}
+
+#contenedor2{
+	width:80%;
+	height:1200px;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	
+}
+
+#contenedor12{
+	width:80%;
+	height:100%;
+	background:rgba(23, 32, 42,0.4);
+	margin-left:10%;
+	margin-right:10%;
+	
+}
+
+#conta{
+	margin-left:10%;
+	margin-right:10%;
+	background:rgba(23, 32, 42,0.4);
+}
+h2{
+	margin-left:10%;
+	margin-right:10%
+}
+
+#texto{
+	background:rgba(23, 32, 42,0.4);
+}
+ #men{
+	 background:rgba(23, 32, 42,0.4);
+ }
+  
+  
+  
+  
+ 
